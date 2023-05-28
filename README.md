@@ -7,7 +7,7 @@ Sou um estudante de programação em constante busca por conhecimento e desafios
 <div style ="display: inline_block">
     <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BeBS4rnfHTgCyyqWzYcuBKQ%3D%3D">
         <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-    <a href="malito:mateusf63@gmail.com">
+    <a href="mailto:mateusf63@gmail.com?subject=Assunto%20da%20mensagem&body=Corpo%20da%20mensagem">
         <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 </div></br>
 
@@ -24,3 +24,5 @@ Sou um estudante de programação em constante busca por conhecimento e desafios
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div></br>
+
+💡Desvendando linhas de código e expandindo horizontes rumo ao infinito digital!
