@@ -11,7 +11,7 @@ Sou um estudante de programação em constante busca por conhecimento e desafios
         <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 </div></br>
 
-![Mateus Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuzu&show_icons=true&theme=merko)
+![Mateus Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuzu&show_icons=true&theme=codeSTACKr)
 
 ## Tecnologias em desenvolvimento 📚
 <div style="display: inline_block">
