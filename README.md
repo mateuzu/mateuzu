@@ -5,9 +5,9 @@ Sou um estudante de programação em constante busca por conhecimento e desafios
 
 ### Contatos 📱
 <div style ="display: inline_block">
-    <a href="https://www.linkedin.com/in/mateus-ferreira-a55691234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqIAuUE2xSMuoyQKmMLQhzw%3D%3D">
+    <a href="https://www.linkedin.com/in/mateus-ferreira-a55691234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqIAuUE2xSMuoyQKmMLQhzw%3D%3D" target="_blank">
         <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-    <a href="mailto:mateusf63@gmail.com?subject=Assunto%20da%20mensagem&body=Corpo%20da%20mensagem">
+    <a href="mailto:mateusf63@gmail.com?subject=Assunto%20da%20mensagem&body=Corpo%20da%20mensagem"target="_blank">
         <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 </div></br>
 
